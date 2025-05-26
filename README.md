@@ -83,5 +83,4 @@ Here’s a breakdown of the **practical automation projects** I’ve worked on:
 
 ---
 
-## 📁 Repository Structure
 
